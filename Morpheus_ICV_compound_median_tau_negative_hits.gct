@@ -1,0 +1,61 @@
+#1.3
+53	10	8	5
+id	type	name	description	target	belongs_to	pc	median_tau_score	ts_pc	6a25363f83ea2a0013e5e7ad/arf	6a25363f83ea2a0013e5e7ad/arf	6a25363f83ea2a0013e5e7ad/arf	6a25363f83ea2a0013e5e7ad/arf	6a25363f83ea2a0013e5e7ad/arf	6a25363f83ea2a0013e5e7ad/arf	6a25363f83ea2a0013e5e7ad/arf	6a25363f83ea2a0013e5e7ad/arf	6a25363f83ea2a0013e5e7ad/arf	6a25363f83ea2a0013e5e7ad/arf
+cell_id	na	na	na	na	na	na	na	na	PC3	VCAP	A375	A549	HA1E	HCC515	HT29	MCF7	HEPG2	summary
+_id	na	na	na	na	na	na	na	na	TAG	TAG	TAG	TAG	TAG	TAG	TAG	TAG	TAG	TAG
+name	na	na	na	na	na	na	na	na	ATBprepAATBB12version1	ATBprepAATBB12version1	ATBprepAATBB12version1	ATBprepAATBB12version1	ATBprepAATBB12version1	ATBprepAATBB12version1	ATBprepAATBB12version1	ATBprepAATBB12version1	ATBprepAATBB12version1	ATBprepAATBB12version1
+pc	na	na	na	na	na	na	na	na	1.53, 0.99	1.43, 0.75	1.57, 0.95	1.35, 0.73	2.91, 1.82	1.17, 0.60	2.48, 1.75	1.83, 1.31	1.75, 1.01	0.46, 0.28
+pc_selection	na	na	na	na	na	na	na	na	0.00, 0.00	0.00, 0.00	0.00, 0.00	0.00, 0.00	0.00, 0.00	0.00, 0.00	0.00, 0.00	1.89, 0.00	0.00, 0.00	0.00, 0.00
+BRD-K36395411	CP	SB-206553	serotonin receptor antagonist, serotonin receptor partial agonist	HTR2B, HTR2C, HTR1A, HTR2A		0.00, 0.00	-84.15	1.20, 0.42	-90.84	70.56	-89.91	-84.22	-61.78	0.00	-86.92	15.36	NaN	-84.15
+BRD-A50157456	CP	terbutaline	adrenergic receptor agonist	ADRB2	Beta-adrenergic receptor agonist	0.00, 0.00	-72.82	1.10, 0.42	-98.25	-98.49	-72.82	70.78	-92.70	0.00	0.00	-47.37	NaN	-91.69
+BRD-A29644307	CP	nomifensine	norepinephrine-dopamine reuptake inhibitor	SLC6A2, SLC6A3, DRD2, MAOA, MAOB, MPO		0.00, 0.00	-72.71	1.27, 0.43	-88.30	-25.92	-73.94	-86.74	0.00	-75.25	0.00	9.21	NaN	-72.71
+BRD-K41051431	CP	mecillinam	cell wall synthesis inhibitor			0.00, 0.00	-72.64	1.16, 0.34	40.95	-96.79	-98.02	-75.31	-69.97	NaN	0.00	-6.23	NaN	-75.41
+BRD-K59184148	CP	SB-216763	glycogen synthase kinase inhibitor	GSK3B, CCNA2, CDK2, GSK3A	Glycogen synthase kinase inhibitor	0.00, 0.00	-72.38	0.36, 0.17	-35.10	-72.98	33.38	-92.97	-71.77	-75.54	-45.73	0.00	-79.47	-87.06
+BRD-K22009844	CP	phenprobamate	skeletal muscle relaxant			0.00, 0.00	-70.31	0.67, 0.23	-77.83	10.03	82.11	-66.10	-89.05	NaN	0.00	-79.58	NaN	-74.51
+BRD-K31491153	CP	1-phenylbiguanide	serotonin receptor agonist	HTR3A, HTR3B		0.00, 0.00	-69.24	1.35, 0.42	NaN	NaN	0.00	55.05	NaN	NaN	-96.82	-78.96	-65.38	-73.11
+BRD-A37959677	CP	estrone	estrogen receptor agonist, estrogenic hormone	ESR1, ESR2		0.00, 0.00	-68.41	0.68, 0.22	-76.78	0.00	-57.41	0.00	-86.26	-96.38	-68.41	91.45	NaN	-78.01
+BRD-K92758126	CP	gibberellic-acid	NFkB pathway modulator	AADACL2		0.00, 0.00	-67.10	0.84, 0.18	57.92	18.12	-83.66	-67.14	-91.03	-90.11	0.00	-16.26	-67.07	-68.11
+BRD-A07780951	CP	orciprenaline	adrenergic receptor agonist	ADRB2	Beta-adrenergic receptor agonist	0.00, 0.00	-66.65	1.14, 0.48	-66.65	-96.52	-87.31	-56.51	57.81	-93.32	0.00	-52.49	NaN	-86.02
+BRD-K13211965	CP	L-741742	dopamine receptor antagonist	DRD4, DRD3, SCN1A, SCN3A		0.00, 0.00	-66.59	1.61, 0.43	-68.43	0.00	18.95	-41.14	-43.59	-92.19	-86.43	-66.59	NaN	-82.04
+BRD-M40783228	CP	mesna	sulfhydryl compound that inactivates toxic metabolites of some chemotherapeutics			0.00, 0.00	-66.29	0.85, 0.32	-65.04	-70.44	-99.95	-73.86	-66.66	0.00	0.00	-9.65	NaN	-66.29
+BRD-K14696368	CP	9-methyl-5H-6-thia-4,5-diaza-chrysene-6,6-dioxide	NFkB pathway inhibitor	RELA		0.00, 0.00	-65.58	0.85, 0.25	-87.43	0.00	-43.51	-84.10	-94.76	-47.06	0.00	-27.40	-96.14	-90.36
+BRD-K87932577	CP	CDK1-5-inhibitor	CDK inhibitor	CDK1, CDK5, GSK3B	CDK inhibitor, Glycogen synthase kinase inhibitor	0.00, 0.00	-65.43	0.94, 0.28	0.00	-79.97	-92.44	0.00	-49.35	-56.38	-57.45	-90.46	-73.41	-73.56
+BRD-K70577657	CP	H-9	cAMP dependent protein kinase inhibitor, PKA inhibitor	PRKACA	PKA inhibitor	0.00, 0.00	-64.61	0.55, 0.11	-58.76	7.17	-68.84	-81.56	-64.61	-72.53	-93.07	0.00	-63.75	-64.61
+BRD-K24994810	CP	androstenol	GABA receptor modulator	NR1I3		0.00, 0.00	-64.20	1.14, 0.36	0.00	0.00	-99.72	-38.09	0.00	-75.92	-80.39	-91.65	-52.49	-79.93
+BRD-A61599461	CP	BRD-A61599461	thyroid-stimulating hormone receptor inverse agonist	TSHR		0.00, 0.00	-63.95	1.10, 0.30	0.00	0.00	-76.72	-83.00	NaN	-63.95	0.00	-89.28	-51.87	-81.41
+BRD-K63954456	CP	BRD-K63954456	macrophage migration inhibiting factor inhibitor, nitric oxide production inhibitor, tumor necrosis factor production inhibitor	MIF, TNF		0.00, 0.00	-63.87	2.57, 1.06	-75.62	-85.51	-94.06	0.00	-63.87	0.00	0.00	-27.41	NaN	-66.84
+BRD-A72483914	CP	spiroxatrine	serotonin receptor antagonist	HTR1A, ADRA1A, ADRA1B, ADRA1D, ADRA2A, ADRA2B, ADRA2C, HTR2B		0.00, 0.00	-63.68	1.03, 0.24	-81.00	19.83	88.27	-22.59	-66.51	-83.27	45.55	-80.27	NaN	-63.68
+BRD-K71823332	CP	epothilone-a	microtubule stabilizing agent			0.00, 0.00	-62.77	1.02, 0.40	-80.01	0.00	-95.28	-82.84	0.00	33.74	0.00	-56.98	-68.55	-80.66
+BRD-K60923938	CP	veratridine	sodium channel activator	SCN1A, SCN3A, SCN8A, SCN9A		0.00, 0.00	-62.52	1.07, 0.30	-93.85	0.00	-57.33	-54.64	0.00	-67.71	-72.49	0.00	-74.31	-67.88
+BRD-K63195589	CP	tipifarnib	farnesyltransferase inhibitor, angiogenesis inhibitor, apoptosis stimulant	FNTA, FNTB		0.00, 0.00	-62.39	0.66, 0.16	-52.04	-80.36	-72.73	0.00	0.00	-99.18	-90.09	0.00	0.00	-90.00
+BRD-A67433117	CP	NCS-382	GABA receptor antagonist	GABBR1, GABBR2, SLC52A2		0.00, 0.00	-61.74	0.91, 0.31	-58.66	-30.41	-96.64	0.00	14.80	-12.85	-90.25	-64.82	-95.19	-79.08
+BRD-K92678294	CP	irilin-a	isoflavone			0.00, 0.00	-61.26	0.70, 0.23	-49.40	12.78	-73.13	-41.71	-89.01	-85.55	-79.77	0.00	37.50	-74.21
+BRD-K56800335	CP	guanabenz	adrenergic receptor agonist	ADRA2A, ADRA2B, ADRA2C		0.00, 0.00	-60.40	0.78, 0.25	0.00	-60.40	72.80	-94.41	-77.82	0.00	0.00	-88.56	NaN	-73.79
+BRD-K90574421	CP	ipsapirone	serotonin receptor agonist	HTR1A		0.00, 0.00	-60.19	1.03, 0.32	7.00	0.00	70.75	-60.19	-81.74	-98.84	0.00	-83.95	NaN	-70.18
+BRD-K66043364	CP	noscapine	bradykinin receptor antagonist, tubulin polymerization inhibitor, apoptosis stimulant, microtubule inhibitor, tubulin inhibitor	BDKRB2, SIGMAR1		0.00, 0.00	-59.52	1.14, 0.39	-93.40	-66.73	0.00	-82.85	-83.27	-51.42	0.00	0.00	NaN	-59.52
+BRD-U88459701	CP	atorvastatin	HMGCR inhibitor, dipeptidyl peptidase inhibitor, tumor necrosis factor expression inhibitor	HMGCR, DPP4, AHR, CYP3A5, FASLG	HMGCR inhibitor	0.00, 0.00	-59.11	1.50, 0.41	-25.48	-50.83	28.25	0.00	-59.64	-92.34	-75.42	-86.64	-58.59	-60.40
+BRD-K85925969	CP	zalcitabine	nucleoside reverse transcriptase inhibitor, reverse transcriptase inhibitor		Nucleoside reverse transcriptase inhibitor	0.00, 0.00	-58.79	0.81, 0.27	-48.08	-96.07	0.00	-74.02	-78.43	NaN	53.87	-6.63	NaN	-69.50
+BRD-A83237092	CP	fulvestrant	estrogen receptor antagonist, DNA directed DNA polymerase inhibitor, soluble epoxide hydrolase inhibitor	ESR1, EPHX2, ESR2, GPER1	Estrogen receptor antagonist	0.00, 0.00	-58.05	0.74, 0.31	-56.14	NaN	-82.02	0.00	-58.84	-89.57	-24.12	46.58	-74.69	-58.05
+BRD-K19554809	CP	MK-212	serotonin receptor agonist	HTR2A, HTR2B, HTR2C		0.00, 0.00	-57.23	2.21, 0.98	-85.48	-29.63	40.74	0.00	0.00	-76.06	-89.13	-74.20	NaN	-57.23
+BRD-K21317336	CP	phentolamine	adrenergic receptor antagonist	ADRA1A, ADRA2A, ADRA1B, ADRA1D, ADRA2B, ADRA2C		0.00, 0.00	-56.48	1.24, 0.47	57.65	-90.19	-99.68	-94.24	0.00	-56.48	0.00	-10.86	NaN	-92.32
+BRD-A56675431	CP	altizide	thiazide diuretic		Na-K-Cl transporter inhibitor	0.00, 0.00	-56.44	1.28, 0.43	-68.19	44.72	-92.67	13.33	0.00	88.66	-58.06	-59.88	NaN	-56.44
+BRD-A12016240	CP	LY-278584	serotonin receptor antagonist	HTR3A		0.00, 0.00	-55.88	0.68, 0.18	-99.83	0.00	0.00	-45.73	-77.20	-42.77	-62.33	-56.53	-96.60	-55.23
+BRD-K30816563	CP	ranitidine	histamine receptor antagonist	HRH2, SLC22A2		0.00, 0.00	-55.83	1.02, 0.31	-5.65	-25.67	-74.37	0.00	-72.75	-68.97	-63.04	0.00	-64.40	-48.62
+BRD-K11158509	CP	tyrphostin-B44	EGFR inhibitor			0.00, 0.00	-55.70	1.33, 0.44	-50.92	-10.65	-71.90	-61.36	-44.01	-28.78	-79.47	30.84	-71.25	-60.49
+BRD-K26521938	CP	dinoprostone	prostanoid receptor agonist	PTGER2, PTGER1, PTGER3, PTGER4, CATSPER1, CATSPER2, CATSPER3, CATSPER4, PTGDR, PTGDR2, PTGFR, TBXA2R		0.00, 0.00	-55.67	0.90, 0.27	-67.55	-55.03	71.40	-70.17	-70.20	21.24	-66.42	-56.31	0.00	-47.16
+BRD-K97951054	CP	BRD-K97951054	Aurora kinase inhibitor, Pim kinase inhibitor, VEGFR inhibitor	AURKB, KDR, PIM1		0.00, 0.00	-55.58	1.41, 0.43	-82.40	-93.72	0.00	-56.71	-55.58	0.00	68.24	0.00	NaN	-62.44
+BRD-A44448661	CP	pentobarbital	GABA receptor modulator	GABRA1, CHRNA4, CHRNA7, GABRA2, GABRA3, GABRA4, GABRA5, GABRA6, GABRB1, GABRB2, GABRB3, GABRD, GABRE, GABRG1, GABRG2, GABRG3, GABRP, GABRQ, GRIA2, GRIK2, GRIN1, GRIN2A, GRIN2B, GRIN2C, GRIN2D, GRIN3A, GRIN3B		0.00, 0.00	-55.39	1.23, 0.52	9.96	0.00	-90.44	36.43	-55.39	-93.74	-75.86	18.05	NaN	-58.16
+BRD-K15402119	CP	huperzine-a	acetylcholinesterase inhibitor, glutamate receptor antagonist	ACHE		0.00, 0.00	-54.24	0.98, 0.39	-65.03	-39.02	-92.86	-54.24	0.00	43.70	-74.71	0.00	NaN	-69.19
+BRD-K32828673	CP	chelidonine	tubulin polymerization inhibitor		Tubulin inhibitor	0.00, 0.00	-54.16	1.86, 0.72	-89.54	-31.03	0.00	-60.36	-23.48	-63.98	-47.88	-60.27	NaN	-54.16
+BRD-K17378184	CP	prestwick-559	dopamine receptor agonist	DRD3, ADRA1A, ADRA1D, ADRA2A, DRD1, DRD2, DRD4, HTR1A, HTR2B		0.00, 0.00	-53.86	0.68, 0.16	-6.90	33.41	-69.13	-12.76	18.26	-59.37	-70.31	-59.63	-87.03	-48.36
+BRD-K19796430	CP	erismodegib	hedgehog pathway inhibitor, smoothened receptor antagonist	SMO		0.00, 0.00	-53.71	2.52, 0.73	-61.51	-32.02	13.35	-68.06	-65.54	-65.62	-30.15	-87.87	0.00	-45.92
+BRD-K34157611	CP	cimetidine	histamine receptor antagonist, histamine receptor inhibitor	HRH2, SLC29A4, SLC47A1, SLC47A2		0.00, 0.00	-52.74	0.44, 0.13	-64.30	-85.52	-53.19	-89.19	0.00	0.00	-21.21	0.00	-62.78	-52.29
+BRD-A65013509	CP	oxybutynin	acetylcholine receptor antagonist	CHRM3, CHRM1, CHRM2, CHRM4		0.00, 0.00	-52.64	1.14, 0.34	-82.60	-40.13	-83.36	79.75	0.00	-52.64	0.00	-71.76	NaN	-58.25
+BRD-K05434375	CP	HA-1004	calcium channel blocker			0.00, 0.00	-52.45	0.84, 0.19	-74.91	14.49	0.00	-96.83	-93.43	-29.99	0.00	0.00	-78.11	-80.88
+BRD-K91623615	CP	ABT-751	tubulin inhibitor, dihydropteroate synthase inhibitor, microtubule inhibitor, PABA antagonist, tubulin polymerisation inhibitor	TUBB	Tubulin inhibitor	0.00, 0.00	-51.90	1.51, 0.73	-87.49	-51.50	-43.71	-52.30	-59.64	22.67	27.40	-73.58	0.00	-53.28
+BRD-A62057054	CP	MDL-11939	serotonin receptor antagonist	HTR2A, HTR2B, HTR2C		0.00, 0.00	-51.51	1.39, 0.53	0.00	-40.43	15.80	-68.26	-73.56	0.00	-57.24	-85.79	NaN	-51.51
+BRD-K20285085	CP	fostamatinib	syk inhibitor, FLT3 inhibitor	SYK, FLT3, RET		0.00, 0.00	-51.19	2.07, 0.75	0.00	-69.37	12.11	-71.09	-38.02	0.00	45.97	-81.72	-99.52	-64.36
+BRD-K52459643	CP	prostaglandin-e1	prostanoid receptor agonist, prostanoid receptor antagonist	PTGER1, PTGER2, CATSPER1, CATSPER2, CATSPER3, CATSPER4, PTGDR, PTGER4, PTGIR		0.00, 0.00	-50.60	1.02, 0.34	-39.90	-60.04	0.00	0.00	0.00	-51.28	-67.12	-58.30	-76.33	-49.92
+BRD-K56403959	CP	ZK-756326	CC chemokine receptor ligand	CCR8		0.00, 0.00	-50.59	1.11, 0.35	-72.75	-32.10	-67.11	38.73	-50.59	-54.97	0.00	-60.13	NaN	-40.76
+BRD-K51557114	CP	BRD-K51557114	GlyT-2 inhibitor	GPR18, LPAR5, SLC6A5		0.00, 0.00	-50.18	0.81, 0.26	0.00	0.00	15.98	-43.25	-90.25	-98.91	-93.52	-50.18	NaN	-88.74
+BRD-K08973992	CP	linoleic-acid	oxidative stress inducer	FABP4, FFAR1, FFAR4, HNF4A, KCNB1, PPARG, TRPM8		0.00, 0.00	-50.12	1.27, 0.38	-67.77	-55.75	-85.33	74.61	-81.84	64.08	-28.84	19.90	NaN	-50.12
