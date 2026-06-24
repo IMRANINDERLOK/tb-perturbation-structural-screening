@@ -31,7 +31,7 @@ The host-response signature used in this study was generated from the publicly a
 
 Processed datasets from the previous signature-generation study are available at:
 
-**Previous study repository:** `insert_previous_repository_link_here`
+**Previous study repository:** `https://github.com/IMRANINDERLOK/PTLD-ML-omics.git`
 
 ## 💊 JAK2 bioactivity data
 
